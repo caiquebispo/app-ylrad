@@ -6,6 +6,10 @@
 ---
 ## Instalação
 
+### Clone
+```bash
+  git clone https://github.com/caiquebispo/app-ylrad.git
+```
 ### Configure o ambiente
 ```bash
 cp .env.example .env
